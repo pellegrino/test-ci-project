@@ -1,7 +1,7 @@
 {
   "name": "test-ci-project",
   "version": "1.0.0",
-  "description": "Some test description yo...",
+  "description": "Some test description",
   "main": "index.js",
   "directories": {
     "test": "test"
