@@ -13,6 +13,11 @@ test('bar', function(t) {
   t.end();
 });
 
+test('bar', function(t) {
+  t.equal('baz', bar.foo());
+  t.end();
+});
+
 test('teardown', function(t) {
   t.ok(true);
   t.end();

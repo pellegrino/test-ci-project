@@ -21,7 +21,6 @@ test('baz from Bar', function(t) {
   t.end();
 });
 
-
 test('teardown', function(t) {
   t.ok(true);
   t.end();
